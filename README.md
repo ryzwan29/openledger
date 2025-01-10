@@ -37,6 +37,9 @@ source <(curl -s https://raw.githubusercontent.com/ryzwan29/openledger/main/quic
 3. Put your bearer token into `data.txt`
 
 4. Run the bot
+```
+screen -R openledger
+```
 
 ```bash
 node main.js

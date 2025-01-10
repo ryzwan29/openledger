@@ -18,33 +18,23 @@ An automated bot for claiming daily rewards on OpenLedger Testnet.
 
 ## Installation
 
-1. Clone this repository
-
 ```bash
-git clone https://github.com/airdropinsiders/OpenLedger-Auto-Bot.git
-cd OpenLedger-Auto-Bot
-```
-
-2. Install dependencies
-
-```bash
-npm install
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/openledger/main/quick-installation.sh)
 ```
 
 ## Getting Started
 
 1. Register on [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=grrltfszz4)
 
-2. Get your JWT Token
+2. Get your bearer Token
 
-- Login to your OpenLedger Testnet account
 - Go to Dashboard
-- Press F12 or right-click and select 'Inspect' to open Developer Tools
+- Press F12 or Inspect 
 - Go to Network tab
-- Look for any request and find the 'Authorization' header value
-- Copy the token (it starts with "Bearer ")
+- Search 'me' section and look for any request and find the 'Authorization' header value
+- Copy the token (ey...)
 
-3. Create edit data.txt file in the project root`
+3. Put your bearer token into `data.txt`
 
 4. Run the bot
 

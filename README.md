@@ -33,7 +33,7 @@ npm install
 
 ## Getting Started
 
-1. Register on [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=ikurpd77ae)
+1. Register on [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=grrltfszz4)
 
 2. Get your JWT Token
 
